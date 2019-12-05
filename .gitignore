@@ -1,0 +1,16 @@
+Friendly Chat.iml
+gradlew
+gradlew.bat
+gradle.properties
+local.properties
+settings.gradle
+/gradle
+/build
+/.idea
+/.gradle
+/app/app.iml
+/app/proguard-rules.pro
+/app/libs
+/app/build
+/app/src/test
+/app/src/androidTest
